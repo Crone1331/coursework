@@ -1,0 +1,53 @@
+* {
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+body{
+  background: #d6dde4;
+}
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 300px;
+  height: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #40505f;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 150px;
+  border-radius: 10%;
+  -webkit-box-shadow: 0 0.4px 10px 0 black;
+          box-shadow: 0 0.4px 10px 0 black;
+          
+
+}
+
+.container .forma {
+  text-align: center;
+ 
+  
+}
+
+.container .forma input {
+  border-radius: 5%;
+  margin-top:5px;
+}
+
+.container .forma p {
+  color:whitesmoke;
+}
+
+.container .forma .btn {
+  margin-top: 30px;
+  border: 0;
+  font-size: 1.4em;
+  background: whitesmoke;
+  color:#242e38;
+  
+}
+/*# sourceMappingURL=main.css.map */

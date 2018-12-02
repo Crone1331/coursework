@@ -1,0 +1,40 @@
+table{
+    border-collapse: collapse;
+    max-width: 1200px;
+    margin:50px  auto;
+    
+}
+th{ 
+    text-align: left;
+    background: #616e80; 
+    padding: 5px 10px; 
+    color:whitesmoke;
+    font-size: 1.2em;
+   }
+td { 
+    padding: 5px 10px; 
+    background: rgb(230, 228, 228); 
+    font-size: 1.1em;
+}
+td a{
+    color: rgb(10, 75, 197);
+    
+    text-decoration: none;
+}td a:hover{
+    border-bottom: 1px solid rgb(128, 24, 24);
+}
+.btn{
+   margin:20px 0;
+   
+}
+.btn a{
+    color: black;
+    font-size: 1.4em;
+    text-decoration: none;
+    padding-bottom: 5px;
+}
+.btn a:hover {
+
+    border-bottom: 2px solid black;
+   
+}
